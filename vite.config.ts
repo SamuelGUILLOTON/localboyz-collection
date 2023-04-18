@@ -10,7 +10,6 @@ export default defineConfig({
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),
-      fs: require.resolve('rollup-pligin-node-builtins')
     }
   }
 })
