@@ -32,7 +32,7 @@ export default {
     }
   },
   created() {
-    fetch('src/assets/video.csv')
+    fetch('assets/video.csv 200!')
       .then((response) => response.text())
       .then((csv) => {
         const lines = csv.split('\n')
