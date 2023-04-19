@@ -5,7 +5,7 @@
         <span class="first-letter">L</span>ocal <span class="first-letter">B</span>oyz
         <span class="first-letter">C</span>ollections</RouterLink>
     </h1>
-    <div class="grain"></div>
+    <p>Retrouves ici, tout les clips réalisés par nos soins</p>
   </div>
   <router-view />
 </template>

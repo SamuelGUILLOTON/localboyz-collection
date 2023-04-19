@@ -45,7 +45,6 @@ export default {
             obj[headers[j]] = currentline[j]
           }
           result.push(obj)
-          console.log(result)
         }
         this.videos = result
       })
@@ -58,7 +57,7 @@ export default {
 
   .desc-container {
     line-height: 23px;
-    color: #625e5e;
+    color: #dacfcf;
 
     h2,
     p {
