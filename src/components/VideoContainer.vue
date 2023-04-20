@@ -12,9 +12,9 @@
         ></iframe>
       </div>
       <div class="desc-container">
-        <h2>{{ video.title }}</h2>
-        <p>Date : {{ video.date }}</p>
-        <p>Location : {{ video.location }}</p>
+        <h2 class="title-kanit">{{ video.title }}</h2>
+        <p><span class="second-color">Date : </span>{{ video.date }}</p>
+        <p><span class="second-color">Localisation :</span> {{ video.location }}</p>
       </div>
     </div>
   </div>
