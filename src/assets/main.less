@@ -10,15 +10,19 @@ body {
 #app {
   max-width: 700px;
   margin: 0 auto;
-  padding:0 10px;
+  padding:0;
   font-weight: normal;
   position: relative;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  cursor: default;
     .title-kanit {
       font-family: "kanit", sans-serif;
+      .router-link-active:hover  {
+        cursor: default;
+      }
     } 
     .second-color {
       color: #847e7e;

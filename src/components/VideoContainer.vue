@@ -70,6 +70,7 @@ export default {
     margin: 100px 0 75px 0;
 
     .desc-container {
+      padding: 0 9px;
       h2 {
         font-size: 20px;
       }
