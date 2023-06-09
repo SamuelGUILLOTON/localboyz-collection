@@ -1,6 +1,6 @@
 # localboyz-collection
 
-This is my portefolio where you can find my video musics. 
+This is my portefolio where you can find my videos music. 
 
 ## Recommended IDE Setup
 
